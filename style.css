@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-image: url(./img/doctor-medical-background-24834402.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hader{
+    display: flex; 
+}
+.icon{
+    margin-left:890px;
+}
+
+button{
+    border-radius: 2px;
+    background-color: pink;
+    border-radius: 12px;
+}
+.text{
+    font-size: 60px;
+    color: #000000;
+    line-height: 1;
+    font-weight: 700;
+}
+p{
+    font-weight: 400;
+}
+div ul li{
+    list-style-type: none;
+    background-color: blue;
+}
+.footar{
+    display: flex;
+    background-color: blue;
+}
